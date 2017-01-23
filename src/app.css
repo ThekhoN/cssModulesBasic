@@ -1,0 +1,13 @@
+.element {
+  background-color: blue;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+}
+
+.colorMeRed {
+  color: red !important;
+  font-weight: bold;
+  line-height: 1.6;
+  letter-spacing: 2px;
+}
